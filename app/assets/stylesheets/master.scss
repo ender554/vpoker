@@ -41,6 +41,8 @@ h1, h2, h3, h4, h5, h6, .navbar {
   -o-background-size: cover;
   background-size: cover;
   height: 370px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   box-shadow: 0px 3px 8px #2a2a2a;
 }
 
@@ -54,16 +56,23 @@ h1, h2, h3, h4, h5, h6, .navbar {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+
+  margin-top: 20px;
 }
 
 .frosty h2 {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 200;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+  margin-bottom: 20px;
 }
 
 .feature {
   width: 100%;
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.logo {
+  font-family: 'metroregular', sans-serif;
 }
