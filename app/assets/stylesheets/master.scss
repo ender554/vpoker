@@ -18,6 +18,10 @@ body {
   z-index:1;
 }
 
+li {
+  list-style-type: none;
+}
+
 .navbar-inverse a.navbar-brand {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
